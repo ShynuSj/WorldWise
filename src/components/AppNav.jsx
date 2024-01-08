@@ -11,9 +11,6 @@ function AppNav() {
         <li>
           <NavLink to="country">countries</NavLink>
         </li>
-        <li>
-          <NavLink to="form">Form</NavLink>
-        </li>
       </ul>
     </nav>
   );
