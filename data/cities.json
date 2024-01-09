@@ -35,6 +35,102 @@
         "lng": 13.376933665713324
       },
       "id": 98443197
+    },
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2024-01-09T15:35:07.141Z",
+      "notes": "",
+      "position": {
+        "lat": "38.71178575255633",
+        "lng": "-9.220284973334842"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Sintra",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2024-01-09T15:35:07.141Z",
+      "notes": "",
+      "position": {
+        "lat": "38.79535297668226",
+        "lng": "-9.33560935071639"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Sintra",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2024-01-09T15:35:07.141Z",
+      "notes": "test",
+      "position": {
+        "lat": "38.79535297668226",
+        "lng": "-9.33560935071639"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Bengaluru",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-01-09T17:13:42.477Z",
+      "notes": "ohh yeahh",
+      "position": {
+        "lat": "12.97258362637735",
+        "lng": "77.57745305472245"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "Mysore",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-01-09T17:14:12.128Z",
+      "notes": "noise",
+      "position": {
+        "lat": "12.294746738514975",
+        "lng": "76.65428608352026"
+      },
+      "id": 98443202
+    },
+    {
+      "cityName": "Kirdimi",
+      "country": "Chad",
+      "emoji": "🇹🇩",
+      "date": "2024-01-09T17:22:28.194Z",
+      "notes": "hiii",
+      "position": {
+        "lat": "17.37998203390421",
+        "lng": "17.55910332536515"
+      },
+      "id": 98443203
+    },
+    {
+      "cityName": "Surgut",
+      "country": "Russian Federation (the)",
+      "emoji": "🇷🇺",
+      "date": "2024-01-09T17:24:05.265Z",
+      "notes": "",
+      "position": {
+        "lat": "60.27278063555934",
+        "lng": "74.50081532058415"
+      },
+      "id": 98443204
+    },
+    {
+      "cityName": "Yert",
+      "country": "Russian Federation (the)",
+      "emoji": "🇷🇺",
+      "date": "2024-01-09T17:25:31.663Z",
+      "notes": "",
+      "position": {
+        "lat": "61.30352351111266",
+        "lng": "125.0757249107124"
+      },
+      "id": 98443205
     }
   ]
 }
